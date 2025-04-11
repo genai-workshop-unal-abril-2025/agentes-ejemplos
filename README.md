@@ -30,4 +30,4 @@ BEE_FRAMEWORK_LOG_PRETTY=true
 BEE_FRAMEWORK_LOG_LEVEL="info"
 BEE_FRAMEWORK_LOG_SINGLE_LINE="false"
 ```
-4. Ejecuta un agente `npm run start src/agents/simpleAgent.ts`
+4. Ejecuta un agente `npm start src/agents/simpleAgent.ts`
