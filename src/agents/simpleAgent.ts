@@ -8,6 +8,8 @@ import { ChatModel } from "beeai-framework/backend/chat";
 import {addIntegersTool, countCharactersTool} from "src/tools/customTools.js";
 import { OpenMeteoTool } from "beeai-framework/tools/weather/openMeteo";
 import { DuckDuckGoSearchTool } from "beeai-framework/tools/search/duckDuckGoSearch";
+import { WebCrawlerTool } from "beeai-framework/tools/web/webCrawler";
+import { WikipediaTool } from "beeai-framework/tools/search/wikipedia";
 
 //ibm/granite-3-8b-instruct  meta-llama/llama-3-3-70b-instruct
 
